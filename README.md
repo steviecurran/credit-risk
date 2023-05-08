@@ -10,5 +10,5 @@ errors. Most importantly though, I find that, by retaining the numerical feature
 power of the data is great improved, with a Gini coefficient of 0.98 (cf. 0.40 with fine-classing)
 and Kolmogorov-Smirnov statistic of KS = 0.97 (cf. 0.30).
 
-Although all of the processing was done in the python scripts mentioned in the report, a simplified 
-run- through is included as the Jupyter notebooks PP.ipynb and ML.ipynb
+Although all of the processing was done in the python scripts mentioned in report.pdf, a simplified 
+run-through is included as the Jupyter notebooks PP.ipynb and ML.ipynb
